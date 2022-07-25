@@ -1,0 +1,35 @@
+.todo{
+    display: flex;
+    justify-content: center;
+}
+
+.cuadro{
+    position: absolute;
+    top: 200px;
+    background: aqua;
+    width: 500px;
+    height: 500px;
+}
+
+.corazonPosition1 p{
+    font-size: 50px;
+    position: absolute;
+    left: 10px;
+    top: -50px;
+    right: 440px;
+}
+
+.corazonPosition2 p{
+    font-size: 50px;
+    position: absolute;
+    top: 400px;
+    
+    right: 10px;
+}
+
+.caracterMedio{
+    font-size: 50px;
+    position: absolute;
+    top: 150px;
+    right: 220px;
+}
